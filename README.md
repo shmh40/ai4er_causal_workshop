@@ -1,5 +1,6 @@
 <p float="left">
   <img src="img/cam.png" width="100" />
+  <img src="img/ai4er_logo_new.png" width="100" />
 </p>
 
 # [AI4ER](https://ai4er-cdt.esc.cam.ac.uk/) Causal Inference Workshop
