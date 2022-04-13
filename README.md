@@ -9,7 +9,7 @@
   
 ---
 
-The workshop will consist of some introductory talks and discussion, followed by looking at some example code in Colab. We will start by introducing causality, then we will look at inference and discovery. The slides and notebooks are in the named directories in this repository. To launch the notebooks, please click the links below...or find them in the Google Drive. :)
+The workshop will consist of some introductory talks and discussion, followed by looking at some example code in Colab. We will start by introducing causality, then we will look at inference and discovery. The slides and notebooks are in the named directories in this repository. To launch the notebooks, please click the links below...or find them in the shared Google Drive.
   
 ## To open the notebooks in [Google Colab](https://colab.research.google.com/?utm_source=scs-index) click the following links below:
 
