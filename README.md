@@ -4,7 +4,7 @@
 </p>
 
 # [AI4ER](https://ai4er-cdt.esc.cam.ac.uk/) Causal Inference Workshop
-## *12th April 2022*
+## *17th February 2023*
 
 <body>
   
